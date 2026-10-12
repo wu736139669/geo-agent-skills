@@ -1,6 +1,7 @@
 ---
 name: markdown-for-agents
-description: Make a static website readable and citable by AI agents and answer engines (GEO/AEO). Generates Markdown versions of every page, publishes llms.txt and llms-full.txt indexes, adds rel="alternate" type="text/markdown" link relations, and optionally wires content negotiation on Cloudflare Workers so agents sending 'Accept: text/markdown' get clean Markdown while browsers keep HTML. Use when asked to optimize a site for ChatGPT/Claude/Perplexity/Grok citations, add llms.txt, implement Markdown for Agents, or improve generative engine optimization for a website.
+license: MIT
+description: 'Make a static website readable and citable by AI agents and answer engines (GEO/AEO). Generates Markdown versions of every page, publishes llms.txt and llms-full.txt indexes, adds rel="alternate" type="text/markdown" link relations, and optionally wires content negotiation on Cloudflare Workers so agents sending ''Accept: text/markdown'' get clean Markdown while browsers keep HTML. Use when asked to optimize a site for ChatGPT/Claude/Perplexity/Grok citations, add llms.txt, implement Markdown for Agents, or improve generative engine optimization for a website.'
 ---
 
 # Markdown for Agents

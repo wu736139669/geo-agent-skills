@@ -1,5 +1,6 @@
 ---
 name: agent-ready-check
+license: MIT
 description: Audit a website (deployed URL or local static build) for AI-agent readiness and GEO signals — robots.txt AI crawler rules, llms.txt / llms-full.txt, Markdown for Agents content negotiation, JSON-LD structured data, sitemap, and rel=alternate Markdown links. Produces a weighted 9-point score with per-item explanations and fixes. Use when asked to check "is my site ready for AI agents", run a GEO/AEO audit, verify llms.txt, diagnose why ChatGPT/Perplexity/Claude don't cite a site, or to verify results after implementing markdown-for-agents.
 ---
 
